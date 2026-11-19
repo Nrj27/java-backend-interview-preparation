@@ -45,8 +45,6 @@ You can use these functions directly using `Math.functionName()` without creatin
 
 Example:
 
-java
-
 ```java
 int a = 10;
 int b = 3;
@@ -113,8 +111,6 @@ Note: Trigonometric functions use radians.
 | `Math.toIntExact(a)` | Converts long to int and detects overflow. |
 
 ## 10. Complete Java Example
-
-java
 
 ```java
 public class Main {
